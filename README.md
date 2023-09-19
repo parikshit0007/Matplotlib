@@ -1,2 +1,2 @@
 # Matplotlib
-[IMDB] (MATPLOTLIB installation and iintroduction .ipynb)
+[imdb](./MATPLOTLIB installation and iintroduction .ipynb)
