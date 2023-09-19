@@ -1,2 +1,2 @@
 # Matplotlib
-[IMDB](https://github.com/parikshit0007/Matplotlib)
+[IMDB](MATPLOTLIB installation and iintroduction .ipynb)
